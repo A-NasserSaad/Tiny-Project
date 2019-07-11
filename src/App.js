@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import ErorrPage from './components/Erorr/index'
 
 function App() {
   return (
     <div className="App">
-      a;lmfsdknvsdk
+      <ErorrPage />
     </div>
   );
 }
